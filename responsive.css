@@ -1,0 +1,50 @@
+@media only screen and (min-width: 400px) and (max-width: 450px) {
+  body {
+    background-color: pink;
+    margin-top: 100px;
+  }
+
+  input {
+    width: 70%;
+  }
+
+  #col-1,
+  #col-2 {
+    font-size: 10px;
+    justify-content: space-between;
+  }
+  .humi-name {
+    font-size: 14px;
+  }
+  .wind-name {
+    font-size: 14px;
+    margin-left: 3px;
+  }
+}
+
+
+@media only screen and (min-width: 350px) and (max-width: 400px) {
+            body {
+              background-color: green;
+              margin-top: 100px;
+            }
+            input {
+                width: 70%;
+              }
+            
+              #col-1,
+              #col-2 {
+                font-size: 10px;
+                justify-content: space-between;
+              }
+              .humi-name {
+                font-size: 14px;
+              }
+              .wind-name {
+                font-size: 14px;
+                margin-left: 3px;
+              }
+
+
+
+                            
